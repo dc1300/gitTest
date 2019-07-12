@@ -1,4 +1,4 @@
 import UIKit
 
 var str = "Hello, playground"
-var str = "1111"
+var str = "11222211"
